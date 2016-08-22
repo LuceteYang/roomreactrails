@@ -1,0 +1,132 @@
+[33mcommit 250d704b80bbcbfb8f47f81e75e57ad089e62952[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Thu Aug 11 15:29:57 2016 +0000
+
+    refactored
+
+[33mcommit dbb429e97eb03b302a0ed6b094bf6b6a608d347d[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Thu Aug 11 08:17:15 2016 +0000
+
+    optimized json building with oj
+
+[33mcommit badc67d4986663a19815d02aba9ba493d1e58ce8[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Thu Aug 11 06:45:25 2016 +0000
+
+    matching controller, model function made
+
+[33mcommit 2be90e7fe53c16e5fe084d54344682d5ebc931d9[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Wed Aug 10 13:45:49 2016 +0000
+
+    find match optimized
+
+[33mcommit 535a4a215d8e9fd4de45e332e409c110bd75bd18[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Wed Aug 10 07:15:55 2016 +0000
+
+    controllers refactored, matching developing
+
+[33mcommit 3f98dfaae83eb74173676827a23f7cfd0ec67c64[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Tue Aug 9 09:17:54 2016 +0000
+
+    routes, controllers refactored
+
+[33mcommit d6becefc8307784158dbffd9251fddd105a425f8[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Mon Aug 8 14:17:19 2016 +0000
+
+    survey controller scaffolded
+
+[33mcommit fd3e5bb6789d8fc3b483226c68d2c1b47e6f9f8f[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Sun Aug 7 07:52:11 2016 +0000
+
+    survey model refactered
+
+[33mcommit e5500e759b762d72cc6440040f875c52e17084cb[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Sat Aug 6 02:56:54 2016 +0000
+
+    matching tested and modified
+
+[33mcommit 63be7c9cf25340abd4a6732ceefd1926fa696bbe[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Sat Aug 6 02:48:50 2016 +0000
+
+    matching system
+
+[33mcommit 086db488930c7b5cd779ded4399d641535794b31[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Sat Aug 6 02:31:14 2016 +0000
+
+    made seeds and db table modified
+
+[33mcommit 693ac1682543535f0ea3daad0e03c90b0c723c78[m
+Author: rooney11 <jae6120@naver.com>
+Date:   Fri Aug 5 19:46:08 2016 +0000
+
+    logout
+
+[33mcommit b33efef7ab0747f3706b55b73484de15b4bef12d[m
+Author: rooney11 <jae6120@naver.com>
+Date:   Fri Aug 5 19:29:48 2016 +0000
+
+    view and update profile and dormsurvey
+
+[33mcommit 27a26fcd6caac5919ce83af5f1ef8a7943f32b2b[m
+Author: rooney11 <jae6120@naver.com>
+Date:   Fri Aug 5 17:18:50 2016 +0000
+
+    profile register update
+
+[33mcommit 5a89285b360fed4d26518a2de781e56096145fef[m
+Author: rooney11 <jae6120@naver.com>
+Date:   Fri Aug 5 10:56:49 2016 +0000
+
+    register new profile and login
+
+[33mcommit 1553600d3ea5a7682d1e60d309f5dd18b0da4531[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Thu Aug 4 13:41:17 2016 +0000
+
+    facebook omniauth setup
+
+[33mcommit 873d1404656b811e1ed38c76240410441cbc3f91[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Wed Aug 3 10:24:14 2016 +0000
+
+    model created
+
+[33mcommit cc28c1a2c7f8c8c914c11c4d54ae2addb07b54a7[m
+Author: rooney11 <jae6120@naver.com>
+Date:   Wed Aug 3 06:50:52 2016 +0000
+
+    first commit
+
+[33mcommit cbea86cc83e49fc754c941ab9850e7b117604885[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Wed Aug 3 06:43:36 2016 +0000
+
+    push req
+
+[33mcommit 50474efdade6e6fa8895f04eb890346e5c9f8510[m
+Merge: 08b8def fdc5b53
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Wed Aug 3 06:41:26 2016 +0000
+
+    Merge branch 'master' of https://github.com/fifteenmania/roommatching
+
+[33mcommit 08b8def330b81be3676b97107047bcfd8a8fde79[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Wed Aug 3 06:35:38 2016 +0000
+
+    home
+
+[33mcommit fdc5b53806d6625d39b6800d68f1f96e05c12177[m
+Author: fifteenmania <ktthee@kaist.ac.kr>
+Date:   Wed Aug 3 15:29:38 2016 +0900
+
+    Initial commit

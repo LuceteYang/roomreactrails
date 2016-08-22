@@ -5,4 +5,13 @@ class ApplicationController < ActionController::Base
   def new_session_path(scope)
     new_user_session_path
   end
+  
+  before_filter :set_access_control_headers
+
+  def set_access_control_headers
+    headers['Access-Control-Allow-Origin'] = 'http://192.168.111.1:3000'
+    headers['Access-Control-Request-Method'] = 'GET, OPTIONS, HEAD'
+    headers['Access-Control-Allow-Headers'] = 'x-requested-with,Content-Type, Authorization'
+  end
+  
 end
